@@ -5,6 +5,8 @@ ID:CT08DIF
 COMPANY:CODTECH IT SOLUTIONS
 
 Project Overview: PWA E-Commerce Platform-
+![Screenshot 2025-01-03 232120](https://github.com/user-attachments/assets/2c273099-896a-42d0-a5c6-70376cc7da34)
+
 
 This project aims to build a Progressive Web App (PWA) for an e-commerce platform that supports offline functionality and push notifications. The platform will allow users to browse products, add them to a shopping cart, and interact with the cart through a modal. Key features of the platform include:
 
